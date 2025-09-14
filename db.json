@@ -1,9 +1,11 @@
 {
   "address": [
     {
-      "post": "https://neticopanel.smartino.site/postN.php",
-      "server": "https://neticopanel.smartino.site/server_none.png",
-      "user": "https://neticopanel.smartino.site/user_ban.png"
+      "post": "https://app.blue-app.top/postN.php",
+      "version": "12.0",      
+      "timeData": 10,
+      "server": "https://app.blue-app.top/server_none.png",
+      "user": "https://app.blue-app.top/user_ban.png"
     }
   ]
 }
